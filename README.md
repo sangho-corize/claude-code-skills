@@ -224,3 +224,10 @@ NODE_ENV=test npx ts-node test/clear-test-data.ts
 ## License
 
 MIT
+
+---
+
+note:
+
+- tạo cấu trúc thư mục docs cho từng service riêng
+- tạo prompt cho từng service riêng
